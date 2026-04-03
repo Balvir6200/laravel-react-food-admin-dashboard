@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](public/screenshots/dashboard.png)
+![Dashboard](./public/screenshots/dashboard.png)
 
 ### Orders
-![Orders](public/screenshots/orders.png)
+![Orders](./public/screenshots/orders.png)
